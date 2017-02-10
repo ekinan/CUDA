@@ -1,7 +1,8 @@
 ------------------------------------------------------------------------------------------------------------------
 Here is the CUDA code that I wrote while doing an independent study with Prof.
 Bryant York at Portland State University in Winter 2016. Please view the READMEs
-in the corresponding directories for more details on each.
+in the corresponding directories for more details on each. An overall summary
+of all of the programs here is provided in the Summary.pdf file.
 
 ------------------------------------------------------------------------------------------------------------------
 Note: These programs must be run on a CUDA machine.
